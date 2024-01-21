@@ -1,38 +1,12 @@
-# MyAudio: Audio Store & Library Simulator
+# Customize Your Own Colour: A RBG colour simulator!
 
-## Specifications
-
-- Integrated a simulated online store for seamless audio content downloads.
-- Utilized treemaps, file I/O, objects, and comparators for efficient content storage and management.
-- Implemented dynamic content updates through structured text file initialization.
-- Prioritized robust error handling techniques to ensure a smooth user experience.
+## Overview
+This is my very first personal project that is outside coursework/university cirruculum! This project showcases a Python desktop application developed with Tkinter, enabling users to create custom RGB color codes through an intuitive and visually appealing GUI. It utilizes object-oriented programming, event-driven techniques, and input validation, ensuring a seamless user experience. 
 
 ## How to Run the Program:
 
-- Ensure you have installed the most current version of Java JDK
-- Download this folder
-- To start the prgram, run file `MyAudioUI`
-- Use the features & commmands below to interact with the simulator.
+- Ensure you have installed the most current version of `Python` & `tkinter` packages.
+- Download the `Customize Your Own Colour.py` file
+- Run the file and you will see a sepreate `tkinter` window pop up.
+- Use the on-screen sliders and have fun at creating your own RBG colour!
 
-## Features & Commands
-
-- **STORE**: View contents of the simulated online store.
-- **DOWNLOAD**: Download specific or a range of audio content from the store.
-- **DOWNLOADA**: Download all content associated with a specific artist or author.
-- **DOWNLOADG**: Download songs of a particular genre.
-- **SONGS**: View all songs in your library.
-- **BOOKS**: View all audiobooks in your library.
-- **PLAYSONG**: Display the song lyrics.
-- **PLAYBOOK**: Display content from an audiobook.
-- **ARTISTS**: List all artists and authors in your library.
-- **DELSONG**: Remove a song from your library.
-- **MAKEPL**: Create a new playlist.
-- **PRINTPL**: Display playlist content.
-- **ADDTOPL**: Add content to a playlist.
-- **DELFROMPL**: Remove content from a playlist.
-- **PLAYALLPL**: Play all content in a playlist.
-- **PLAYPL**: Play a specific content from a playlist.
-- **SORTBYLENGTH**, **SORTBYYEAR**, **SORTBYNAME**: Sort the library by length, year, or name.
-- **SEARCH**: Search the store by content title.
-- **SEARCHA**: Search by artist or author.
-- **SEARCHG**: Search songs by genre.
